@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="PawLink.Api/PawLink.Api.csproj" />
+    <Project Path="PawLink.Application/PawLink.Application.csproj" />
+    <Project Path="PawLink.Domain/PawLink.Domain.csproj" />
+    <Project Path="PawLink.Infrastructure/PawLink.Infrastructure.csproj" />
+  </Folder>
+</Solution>
